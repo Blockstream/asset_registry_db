@@ -111,4 +111,5 @@
 "2ebc2a2e76169d110e3c572c1cd2872b48c399e5ba980d44857a9c6e79dff5ec":["condensat.tech","CHFMC","CHFMaturityDeposits",8],
 "a7c7782ea2e6b582915e2a5fcd3d48e560d20a4b96326c4a43e63b024ffdd596":["condensat.tech","CHFMD","CHFInstitutionalMonetaryInstruments",8],
 "7b08c9b6d79193f0ec4ce891b8a1e8b89388ed3b15eb7eef72d76e3b9ddb1bda":["condensat.tech","USDMA","USDMonetaryBasis",8],
-"270781c232bd312fd65e93956113f2f235b938edc96336e31b64aa483f33062c":["condensat.tech","USDMB","USDSightDeposits",8]}
+"270781c232bd312fd65e93956113f2f235b938edc96336e31b64aa483f33062c":["condensat.tech","USDMB","USDSightDeposits",8],
+"75c578b2c53c71f52a1ab9c6b1a64ff37ffb9fd384cbbd8c9df901d519548101":["condensat.tech","USDMC","USDMaturityDeposits",8]}
