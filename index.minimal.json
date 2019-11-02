@@ -107,4 +107,5 @@
 "bfa5d3ed8252f555854b32e87caf51d4770ec54e402f42e8e6059e07fc8c6197":["condensat.tech","EURMD","EurosInstitutionalMonetaryInstruments",8],
 "63855c473d6543e529b688e8d111630c225bc5915484f846eee7dbeebe2ffb60":["condensat.tech","CHFME","CHFBonds",8],
 "a4a2197c7045cac16f8df7fc2c9263276ae82cc62c00d188dd4e1c7ac6a4ac59":["condensat.tech","CHFMA","CHFMonetaryBasis",8],
-"352dad62f23174caba555fb7c6cee3e9eb4ffaf86ff5b4d03f09a5e6738c76c7":["condensat.tech","CHFMB","CHFSightDeposits",8]}
+"352dad62f23174caba555fb7c6cee3e9eb4ffaf86ff5b4d03f09a5e6738c76c7":["condensat.tech","CHFMB","CHFSightDeposits",8],
+"2ebc2a2e76169d110e3c572c1cd2872b48c399e5ba980d44857a9c6e79dff5ec":["condensat.tech","CHFMC","CHFMaturityDeposits",8]}
