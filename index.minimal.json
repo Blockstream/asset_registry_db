@@ -116,4 +116,5 @@
 "8e9dfee7b4e6a709439024b706f43e0e3380a82b8a615251b32ad7a3457e3b67":["condensat.tech","USDMD","USDInstitutionalMonetaryInstruments",8],
 "3df492f58027b0820b783e54c173e07149c2469f7b9d8d87687ee612fa584ba3":["condensat.tech","USDME","USDBonds",8],
 "e2cdf94f083d2cb8fc3f428e953d8370114900babedd731f778ce0fb4ce72dc9":["condensat.tech","KRWMA","WonMonetaryBasis",8],
-"8ce460536b8c711be395bb7af0f6b61eedcdced511f99949f9b731bad7a75801":["condensat.tech","KRWMB","WonSightDeposits",8]}
+"8ce460536b8c711be395bb7af0f6b61eedcdced511f99949f9b731bad7a75801":["condensat.tech","KRWMB","WonSightDeposits",8],
+"f9784b533ef05e8579fec63a893510ddc7706e7dec09c896088e1e126da9e4ff":["condensat.tech","KRWMC","WonMaturityDeposits",8]}
